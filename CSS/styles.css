@@ -425,7 +425,7 @@ p {
     text-decoration: none; /* Removes underline from link */
     padding: 10px 15px; /* Button padding */
     border-radius: 5px; /* Optional: adds rounded corners to the button */
-    font-size: 1rem; /* Button text size */
+    font-size: 2rem; /* Button text size */
     margin: 0 0 10px 0; /* Space above and below the button */
 }
 
